@@ -1,0 +1,8 @@
+venv
+.idea
+__pycache__
+bad emails.txt
+geckodriver.log
+result.txt
+chromedriver.exe
+geckodriver.exe
